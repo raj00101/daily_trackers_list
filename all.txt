@@ -340,4 +340,4 @@ udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://peerfect.org:6969/announce
+udp://tracker.peerfect.org:6969/announce
